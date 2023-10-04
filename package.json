@@ -1,0 +1,19 @@
+{
+  "name": "arduino-esp32-solo",
+  "version": "1.0.6",
+  "description": "Compiled binaries for arduino esp32 SOLO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techninja/arduino-esp32-solo.git"
+  },
+  "author": "techninja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techninja/arduino-esp32-solo/issues"
+  },
+  "homepage": "https://github.com/techninja/arduino-esp32-solo#readme"
+}
