@@ -1,0 +1,15 @@
+{
+  "name": "ESP32 SOLO",
+  "description": "A library for solo core ESP32 boards",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techninja/arduino-esp32-solo.git"
+  },
+  "authors": {
+    "name": "techninja",
+    "email": "james@tn42.com"
+  },
+  "version": "1.0.6",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
